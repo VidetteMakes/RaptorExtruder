@@ -9,7 +9,7 @@ These fine Valparaiso University students worked for nine months to make this pr
 Vidette Makes' [Adam Johnson](mailto:ajohnson@videttemakes.org) proposed the project and served as the team's "customer."
 
 ## Documentation
-* (Design Document)[(https://github.com/VidetteMakes/RaptorExtruder/wiki/Design-Document)
+* [Design Document](https://github.com/VidetteMakes/RaptorExtruder/wiki/Design-Document)
 
 ## A Word from our Sponsor
 Vidette Makes is a maker group in Valparaiso, Indiana, USA. We are a community of technical professionals, creatives, and enthusiasts working to build a shared workspace to enrich our city through meaningful educational and social projects. Our hope is that senior design projects like these can help improve education throughout our region, and benefit the open-source community.
